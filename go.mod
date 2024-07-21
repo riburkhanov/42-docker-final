@@ -1,4 +1,4 @@
-module github.com/Yandex-Practicum/42-docker-final
+module github.com/riburkhanov/42-docker-final
 
 go 1.22.0
 
